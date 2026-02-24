@@ -15,7 +15,7 @@ A queue management system for places like hospitals, banks, or service centers. 
 
 ## How to run it
 
-You'll need Java 17+, Node.js, and MySQL running locally.
+You'll need Java 17+ and MySQL running locally.
 
 **1. Start the backend**
 
@@ -34,7 +34,6 @@ npm install
 npm run dev
 ```
 
-Backend runs on port 8080, frontend on port 3000.
 
 **3. Log in**
 
